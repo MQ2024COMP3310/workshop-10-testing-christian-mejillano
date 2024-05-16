@@ -29,6 +29,8 @@ You should first initialise the database as follows:
 
 This should create an sqlite database under the instance directory. You can view the contents of the database using the sqlite command line interface as follows:
 
+testing for git merge
+
 sqlite3 instance/db.sqlite
 > .schema  
 CREATE TABLE user (
